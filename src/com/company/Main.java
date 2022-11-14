@@ -16,5 +16,9 @@ public class Main {
         System.out.println("Hello World \u2765");
         System.out.println("Hello World \u2763");
         System.out.println("\u2764\uFE0F");
+        System.out.println("\u2764\uFE0F");
+        System.out.println("\u2764\uFE0F");
+
+
     }
 }
