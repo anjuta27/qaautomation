@@ -13,6 +13,7 @@ public class Main {
         int max = Integer.MAX_VALUE;
         System.out.println(max);
 
+
     //1.2 В переменную записать 3х значное натуральное число, вывести в консоль сумму цифр числа
         int number = 300;
         System.out.println(number + number);
