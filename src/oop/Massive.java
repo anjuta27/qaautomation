@@ -16,6 +16,7 @@ public class Massive {
         massive.task1();
 
 
+
     }
 
     //1.3
