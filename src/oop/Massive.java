@@ -42,6 +42,8 @@ public class Massive {
             case 3:
                 System.out.println("Сентябрь, Октябрь, Ноябрь");
                 break;
+            default:
+                System.out.println("Error!");
         }
     }
 
